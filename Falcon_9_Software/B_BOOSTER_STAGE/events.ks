@@ -213,7 +213,7 @@ GLOBAL FUNCTION _BOOSTER_ATMOSPHERIC_GUIDANCE
         UNTIL _TRUE_RADAR <= (_STOP_DISTANCE + _BOOSTER_HEIGHT) 
         {
             IF _ANGLE_OF_ATTACK_LIMIT > 15 {SET _ANGLE_OF_ATTACK_LIMIT TO 15.}
-            IF SHIP:ALTITUDE < 10000 {SET _ANGLE_OF_ATTACK_LIMIT TO (ALT:RADAR / 100) + 1.}
+            IF SHIP:ALTITUDE < 10000 {SET _ANGLE_OF_ATTACK_LIMIT TO (ALT:RADAR / 100).}
             WAIT 0.
         }
 }
@@ -225,7 +225,7 @@ GLOBAL FUNCTION _BOOSTER_LANDING_BURN
    // LANDING BURN STARTUP
         RCS OFF. // Under Engine Power
         LOCK STEERING TO _LANDING_ZONE_GUIDANCE().
-        LOCK THROTTLE TO _BURN_THROTTLE + 0.2. // Start Landing Burn with extra power to be finished early
+        LOCK THROTTLE TO _BURN_THROTTLE + 0.25. // Start Landing Burn with extra power to be finished early
         SET _ANGLE_OF_ATTACK_LIMIT TO -3. // Inverted AOA when under engine power
 
     // LANDING GEAR TRIGGER & AOA
@@ -238,7 +238,7 @@ GLOBAL FUNCTION _BOOSTER_LANDING_BURN
     // REST OF LANDING BURN
         UNTIL SHIP:VERTICALSPEED > -40
         {
-            SET _ANGLE_OF_ATTACK_LIMIT TO -(ALT:RADAR / 100) + 1. // 100 Meters = 0 AOA, 200 = - 1 etc.
+            SET _ANGLE_OF_ATTACK_LIMIT TO -(ALT:RADAR / 100). // 100 Meters = 0 AOA, 200 = - 1 etc.
 
             PRINT round(_ANGLE_OF_ATTACK_LIMIT, 1) AT (0,7).
             IF _ANGLE_OF_ATTACK_LIMIT < -4 {SET _ANGLE_OF_ATTACK_LIMIT TO -4.}
