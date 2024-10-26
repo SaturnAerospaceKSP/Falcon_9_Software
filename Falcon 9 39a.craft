@@ -1,8 +1,8 @@
-ship = Falcon 9
+ship = Falcon 9 39a
 version = 1.12.5
 description = 
 type = VAB
-size = 10.4328775,49.7305908,9.48652077
+size = 9.71933651,47.7447968,14.5349169
 steamPublishedFileId = 0
 persistentId = 2922253549
 rot = 0,0,0,0
@@ -17,7 +17,7 @@ PART
 {
 	part = TE.F9.Fairing.Adapter_4292199774
 	partName = Part
-	persistentId = 2184916709
+	persistentId = 1542975026
 	pos = -0.0435032807,45.5707855,-0.592049301
 	attPos = 0,0,0
 	attPos0 = -0.0435032807,45.5707855,-0.592049301
@@ -1165,8 +1165,8 @@ PART
 {
 	part = TE.19.F9.Fairing_4292190362
 	partName = Part
-	persistentId = 3374104178
-	pos = 0.841510296,45.4507866,-0.59204936
+	persistentId = 2338190787
+	pos = 0.841511011,45.4507866,-0.59204936
 	attPos = 0,0,0
 	attPos0 = 0,-0.119998932,-0.88500005
 	rot = 0,0.707106829,0,0.707106829
@@ -1484,7 +1484,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.841510057, 45.4507866, -0.59204936)
+		originalPos = (0.841510773, 45.4507866, -0.59204936)
 		originalRotation = (0, 0.707106829, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -1508,8 +1508,8 @@ PART
 {
 	part = TE.19.F9.Fairing_4292184414
 	partName = Part
-	persistentId = 2949280406
-	pos = -0.928516865,45.4507866,-0.592049241
+	persistentId = 2667135408
+	pos = -0.92851758,45.4507866,-0.592049241
 	attPos = 0,0,0
 	attPos0 = -3.7252903E-08,-0.119998932,0.88500005
 	rot = 0,0.707106769,0,-0.707106888
@@ -1827,7 +1827,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.928516626, 45.4507866, -0.592049241)
+		originalPos = (-0.928517342, 45.4507866, -0.592049241)
 		originalRotation = (0, 0.707106769, 0, -0.707106888)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -1851,7 +1851,7 @@ PART
 {
 	part = TE.19.F9.S2.Tank_4292176258
 	partName = Part
-	persistentId = 825247121
+	persistentId = 3812024542
 	pos = -0.0435032807,42.2693138,-0.592049301
 	attPos = 0,0,0
 	attPos0 = 0,-3.30147171,0
@@ -2080,7 +2080,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 67446.437785170114
+		LastUpdateTime = 67191.152990219896
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -2224,7 +2224,7 @@ PART
 {
 	part = TE.19.F9.S2.Engine_4292158094
 	partName = Part
-	persistentId = 2085951254
+	persistentId = 1637221912
 	pos = -0.0435032807,38.5143166,-0.592049301
 	attPos = 0,0,0
 	attPos0 = 0,-3.38253856,0
@@ -2783,8 +2783,8 @@ PART
 {
 	part = TE.F9.S2.RCS_4291943030
 	partName = Part
-	persistentId = 356117730
-	pos = -0.0435035191,39.6441536,-1.83979583
+	persistentId = 3574456835
+	pos = -0.0435035191,39.6441536,-1.83979654
 	attPos = 0,0,0
 	attPos0 = -1.24773085,-2.62515903,7.4505806E-08
 	rot = 0,1.1920929E-07,0,1.00000012
@@ -2991,7 +2991,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.0435035191, 39.6441536, -1.83979559)
+		originalPos = (-0.0435035191, 39.6441536, -1.8397963)
 		originalRotation = (0, 1.1920929E-07, 0, 1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -3011,8 +3011,8 @@ PART
 {
 	part = TE.F9.S2.RCS_4291942398
 	partName = Part
-	persistentId = 2519815249
-	pos = -0.0435029231,39.6441536,0.655697167
+	persistentId = 673104251
+	pos = -0.0435029231,39.6441536,0.655697882
 	attPos = 0,0,0
 	attPos0 = 1.24773085,-2.62515903,-1.86264515E-07
 	rot = 0,1.00000012,0,-2.08616257E-07
@@ -3219,7 +3219,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.0435029231, 39.6441536, 0.655696929)
+		originalPos = (-0.0435029231, 39.6441536, 0.655697644)
 		originalRotation = (0, 1.00000012, 0, -2.08616257E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -3239,8 +3239,8 @@ PART
 {
 	part = KAL9000_4291813708
 	partName = Part
-	persistentId = 3899146480
-	pos = 0.847768247,45.6613274,-0.592049122
+	persistentId = 191441471
+	pos = 0.847768962,45.6613274,-0.592049122
 	attPos = 0,0,0
 	attPos0 = 5.96046732E-08,0.0905418396,-0.891261876
 	rot = -0.338056028,0.941126108,-4.47034836E-08,1.78813934E-07
@@ -3579,7 +3579,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.847768009, 45.6613274, -0.592049122)
+		originalPos = (0.847768724, 45.6613274, -0.592049122)
 		originalRotation = (-0.338056028, 0.941126108, -4.47034836E-08, 1.78813934E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -3619,8 +3619,8 @@ PART
 {
 	part = kOSMachineRad_4287733558
 	partName = Part
-	persistentId = 3444751830
-	pos = -0.962731302,45.6106033,-0.59204942
+	persistentId = 3411242270
+	pos = -0.962732017,45.6106033,-0.59204942
 	attPos = 0,0,0
 	attPos0 = -1.42108547E-14,0.0398178101,0.919218361
 	rot = 2.98023224E-08,-8.94069672E-08,-0.338056207,0.941125989
@@ -3891,7 +3891,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.962731063, 45.6106033, -0.59204942)
+		originalPos = (-0.962731779, 45.6106033, -0.59204942)
 		originalRotation = (2.98023224E-08, -8.94069672E-08, -0.338056207, 0.941125989)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -3942,7 +3942,7 @@ PART
 {
 	part = TE.19.F9.S1.Interstage_4292141610
 	partName = Part
-	persistentId = 1527681131
+	persistentId = 3298166389
 	pos = -0.0435032807,35.6743164,-0.592049301
 	attPos = 0,0,0
 	attPos0 = 0,-6.59499741,0
@@ -4621,7 +4621,7 @@ PART
 {
 	part = TE.19.F9.S1.Tank_4292110554
 	partName = Part
-	persistentId = 1742695684
+	persistentId = 1942587611
 	pos = -0.0435032807,22.216589,-0.592049301
 	attPos = 0,0,0
 	attPos0 = 0,-13.4577284,0
@@ -4879,7 +4879,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 67446.437785170114
+		LastUpdateTime = 67191.152990219896
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -5019,7 +5019,7 @@ PART
 {
 	part = TE.19.F9.S1.Engine_4292034162
 	partName = Part
-	persistentId = 2428983743
+	persistentId = 2278443597
 	pos = -0.0435032807,8.13931656,-0.592049301
 	attPos = 0,0,0
 	attPos0 = 0,-14.0772715,0
@@ -5041,9 +5041,9 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = TE.Ghidorah.Erector.2_4291823464
+	link = TE.Ghidorah.Erector_4290884096
 	attN = node_top,TE.19.F9.S1.Tank_4292110554_0|1.12727404|0_-2.38418579E-07|1.00000024|-2.38418579E-07_0|1.12727404|0_-2.38418579E-07|1.00000024|-2.38418579E-07
-	attN = node_down,TE.Ghidorah.Erector.2_4291823464_0|-1.28081298|0_2.38418579E-07|-1.00000024|-2.38418579E-07_0|-1.28081298|0_2.38418579E-07|-1.00000024|-2.38418579E-07
+	attN = node_down,TE.Ghidorah.Erector_4290884096_0|-1.28081298|0_2.38418579E-07|-1.00000024|-2.38418579E-07_0|-1.28081298|0_2.38418579E-07|-1.00000024|-2.38418579E-07
 	EVENTS
 	{
 	}
@@ -5802,633 +5802,10 @@ PART
 }
 PART
 {
-	part = TE.Ghidorah.Erector.2_4291823464
-	partName = Part
-	persistentId = 1607993296
-	pos = -2.94352889,7.3655014,-0.640049636
-	attPos = 0,0,0
-	attPos0 = -0.0480006188,-0.773815155,2.89999843
-	rot = 0,0.707106829,0,-0.707106829
-	attRot = 0,-0.707106769,0,0.707106769
-	attRot0 = 0,0,0,1
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 4
-	resPri = 0
-	dstg = 2
-	sidx = 0
-	sqor = 4
-	sepI = 4
-	attm = 0
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	link = kOSMachineRad_4291817298
-	attN = bottom,Null_0_0|0|-5_0|-1|0_0|0|-5_0|-1|0
-	attN = node_stack_top,TE.19.F9.S1.Engine_4292034162_0.0480005741|-0.507001877|-2.89999962_0|1.00000012|-1.19209375E-07_0.0480005741|-0.507001877|-2.89999962_0|1.00000012|-1.19209375E-07
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleGenerator
-		isEnabled = True
-		generatorIsActive = False
-		throttle = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ActivateAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ShutdownAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleAnimateGeneric
-		isEnabled = True
-		aniState = LOCKED
-		animSwitch = True
-		animTime = 0
-		animSpeed = 1
-		deployPercent = 100
-		animationIsDisabled = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		AXISGROUPS
-		{
-			deployPercent
-			{
-				axisGroup = None
-				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
-				axisSpeedMultiplier = 0
-				axisInverted = None
-				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
-				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
-				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
-				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTundraDecoupler
-		isEnabled = True
-		deployState = RETRACTED
-		ejectionForcePercent = 100
-		isDecoupled = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			DecoupleAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FundsKeeper
-		isEnabled = True
-		OriginalCost = 30200
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = StealBackMyFunds
-		isEnabled = True
-		active = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleAGX
-		isEnabled = True
-		placeHolder = Hello World
-		currentKeyset = 1
-		groupNames = 
-		groupVisibility = 1011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111
-		groupVisibilityNames = Group1‣Group2‣Group3‣Group4‣Group5
-		DirectActionState = 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-		hasData = true
-		focusFlightID = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = tjs_DecouplerLight
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = True
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = AttachedOnEditor
-		isEnabled = True
-		active = True
-		originalPos = (-2.94352841, 7.3655014, -0.640049636)
-		originalRotation = (0, 0.707106829, 0, -0.707106829)
-		moduleVersion = 6
-		stagingEnabled = True
-		userReallyDeactivatedIt = False
-		originalAttachNodePos = (0.0, 0.0, -5.0)
-		originalAttachNodePos = (0.0, -0.5, -2.9)
-		originalAttachNodeSize = 5
-		originalAttachNodeSize = 3
-		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
-		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
-		originalAttachNodeOffset = (0.0, 0.0, 0.0)
-		originalAttachNodeOffset = (0.0, 0.0, 0.0)
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = kOSMachineRad_4291817298
-	partName = Part
-	persistentId = 3647647122
-	pos = -3.91947794,7.3272171,-0.638451755
-	attPos = 0,0,0
-	attPos0 = 0.00159800425,-0.0382843018,0.975916624
-	rot = 1.78813934E-07,-1.78813934E-07,0.707107008,-0.70710665
-	attRot = 0.707106709,0,0,0.707106709
-	attRot0 = -0.500000238,0.5,-0.5,0.499999762
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 4
-	resPri = 0
-	dstg = 2
-	sidx = -1
-	sqor = -1
-	sepI = 4
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	srfN = srfAttach,TE.Ghidorah.Erector.2_4291823464,Cube (3),0|0|0,1|0|0,0|0|0
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = kOSProcessor
-		isEnabled = True
-		bootFile = /boot/F9_Ground_Clamp.ks
-		diskSpace = 60000
-		baseDiskSpace = 60000
-		baseModuleMass = 0
-		additionalCost = 0
-		MaxPartId = 100
-		RequiredPower = 0.0399999991
-		stagingEnabled = True
-		activated = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			Activate
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			Deactivate
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			Toggle
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			TogglePower
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			StartSuppressAutopilot
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			StopSuppressAutopilot
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ToggleSuppressAutopilot
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KopernicusSolarPanel
-		isEnabled = True
-		trackingBodyName = 
-		_manualTracking = False
-		efficiencyMult = 1
-		launchUT = -1
-		currentRotation = (0, 0, 0, 1)
-		storedAnimationTime = 0
-		storedAnimationSpeed = 0
-		deployState = EXTENDED
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ExtendPanelsAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ExtendAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			RetractAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FundsKeeper
-		isEnabled = True
-		OriginalCost = 2200
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = StealBackMyFunds
-		isEnabled = True
-		active = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleAGX
-		isEnabled = True
-		placeHolder = Hello World
-		currentKeyset = 1
-		groupNames = 
-		groupVisibility = 1011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111
-		groupVisibilityNames = Group1‣Group2‣Group3‣Group4‣Group5
-		DirectActionState = 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-		hasData = true
-		focusFlightID = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = True
-		nameTag = GROUNDCPU
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleCargoPart
-		isEnabled = True
-		beingAttached = False
-		beingSettled = False
-		reinitResourcesOnStoreInVessel = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = AttachedOnEditor
-		isEnabled = True
-		active = True
-		originalPos = (-3.91947699, 7.3272171, -0.638451755)
-		originalRotation = (1.78813934E-07, -1.78813934E-07, 0.707107008, -0.70710665)
-		moduleVersion = 6
-		stagingEnabled = True
-		userReallyDeactivatedIt = False
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModulekOSVoidAction
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			kOSVoidAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 10
-		maxAmount = 10
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
 	part = KRE-FalconLegMk2-M_4292002986
 	partName = Part
-	persistentId = 4221719748
-	pos = 0.651230574,8.05855942,-1.2867831
+	persistentId = 1249588784
+	pos = 0.651230931,8.05855942,-1.28678346
 	attPos = 0,0,0
 	attPos0 = -0.69472599,-14.1580286,-0.69472599
 	rot = 0,-0.382683426,0,0.923879623
@@ -6702,7 +6079,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.651230454, 8.05855942, -1.28678298)
+		originalPos = (0.651230812, 8.05855942, -1.28678334)
 		originalRotation = (0, -0.382683426, 0, 0.923879623)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -6722,8 +6099,8 @@ PART
 {
 	part = KRE-FalconLegMk2-M_4292001976
 	partName = Part
-	persistentId = 2386954050
-	pos = -0.738237143,8.05855942,-1.2867831
+	persistentId = 3444419832
+	pos = -0.7382375,8.05855942,-1.28678346
 	attPos = 0,0,0
 	attPos0 = -0.69472599,-14.1580286,0.694725931
 	rot = 0,0.382683516,0,0.923879623
@@ -6997,7 +6374,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.738237023, 8.05855942, -1.28678298)
+		originalPos = (-0.738237381, 8.05855942, -1.28678334)
 		originalRotation = (0, 0.382683516, 0, 0.923879623)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -7017,8 +6394,8 @@ PART
 {
 	part = KRE-FalconLegMk2-M_4292001786
 	partName = Part
-	persistentId = 2528865760
-	pos = -0.738237023,8.05855942,0.102684617
+	persistentId = 1222515680
+	pos = -0.738237381,8.05855942,0.102684975
 	attPos = 0,0,0
 	attPos0 = 0.69472605,-14.1580286,0.694725931
 	rot = 0,0.923879623,0,0.382683426
@@ -7292,7 +6669,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.738236904, 8.05855942, 0.102684498)
+		originalPos = (-0.738237262, 8.05855942, 0.102684855)
 		originalRotation = (0, 0.923879623, 0, 0.382683426)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -7312,8 +6689,8 @@ PART
 {
 	part = KRE-FalconLegMk2-M_4292001596
 	partName = Part
-	persistentId = 3112653026
-	pos = 0.651230633,8.05855942,0.102684438
+	persistentId = 2758077377
+	pos = 0.651230991,8.05855942,0.102684796
 	attPos = 0,0,0
 	attPos0 = 0.694725931,-14.1580286,-0.69472599
 	rot = 0,0.923879623,0,-0.382683516
@@ -7587,7 +6964,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.651230514, 8.05855942, 0.102684319)
+		originalPos = (0.651230872, 8.05855942, 0.102684677)
 		originalRotation = (0, 0.923879623, 0, -0.382683516)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -7607,8 +6984,8 @@ PART
 {
 	part = KAL9000_4291815276
 	partName = Part
-	persistentId = 2373542534
-	pos = 1.19366276,35.0393066,-0.765919268
+	persistentId = 926405078
+	pos = 1.19366348,35.0393066,-0.765919268
 	attPos = 0,0,0
 	attPos0 = -0.173869863,12.8227177,-1.23715019
 	rot = 0,-0.997564077,0,0.0697561204
@@ -7971,7 +7348,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.19366252, 35.0393066, -0.765919268)
+		originalPos = (1.19366324, 35.0393066, -0.765919268)
 		originalRotation = (0, -0.997564077, 0, 0.0697561204)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -8011,8 +7388,8 @@ PART
 {
 	part = Grid Fin M Titanium_4291971244
 	partName = Part
-	persistentId = 4081876123
-	pos = 0.830738246,35.509285,-1.46629107
+	persistentId = 2417510597
+	pos = 0.830738962,35.509285,-1.46629179
 	attPos = 0,0,0
 	attPos0 = -0.874226093,-0.165031433,-0.874226034
 	rot = -0.923879623,0,0.382683516,0
@@ -8369,7 +7746,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.830738008, 35.509285, -1.46629083)
+		originalPos = (0.830738723, 35.509285, -1.46629155)
 		originalRotation = (-0.923879623, 0, 0.382683516, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -8389,8 +7766,8 @@ PART
 {
 	part = Grid Fin M Titanium_4291969754
 	partName = Part
-	persistentId = 3875296218
-	pos = -0.917744935,35.509285,-1.46629095
+	persistentId = 2498996168
+	pos = -0.91774565,35.509285,-1.46629167
 	attPos = 0,0,0
 	attPos0 = -0.874226034,-0.165031433,0.874225974
 	rot = -0.382683516,0,0.923879623,0
@@ -8735,7 +8112,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.917744696, 35.509285, -1.46629071)
+		originalPos = (-0.917745411, 35.509285, -1.46629143)
 		originalRotation = (-0.382683516, 0, 0.923879623, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -8755,8 +8132,8 @@ PART
 {
 	part = Grid Fin M Titanium_4291969676
 	partName = Part
-	persistentId = 3184386311
-	pos = -0.917744756,35.509285,0.282192528
+	persistentId = 198335883
+	pos = -0.917745471,35.509285,0.282193244
 	attPos = 0,0,0
 	attPos0 = 0.874226153,-0.165031433,0.874225974
 	rot = 0.382683516,0,0.923879623,0
@@ -9101,7 +8478,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.917744517, 35.509285, 0.28219229)
+		originalPos = (-0.917745233, 35.509285, 0.282193005)
 		originalRotation = (0.382683516, 0, 0.923879623, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -9121,8 +8498,8 @@ PART
 {
 	part = Grid Fin M Titanium_4291969598
 	partName = Part
-	persistentId = 1760297252
-	pos = 0.830738485,35.509285,0.282192171
+	persistentId = 2685639281
+	pos = 0.8307392,35.509285,0.282192886
 	attPos = 0,0,0
 	attPos0 = 0.874225914,-0.165031433,-0.874226093
 	rot = 0.923879623,0,0.382683516,0
@@ -9467,7 +8844,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.830738246, 35.509285, 0.282191932)
+		originalPos = (0.830738962, 35.509285, 0.282192647)
 		originalRotation = (0.923879623, 0, 0.382683516, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -9487,8 +8864,8 @@ PART
 {
 	part = TE2.19.F9.CGT_4286564188
 	partName = Part
-	persistentId = 1653022604
-	pos = -0.0435031615,35.4887581,-1.8412497
+	persistentId = 296365820
+	pos = -0.0435031615,35.4887581,-1.84125042
 	attPos = 0,0,0
 	attPos0 = -1.2491926,-0.185558319,0
 	rot = 1.78503823E-10,0,0,1.00000012
@@ -9712,7 +9089,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.0435031615, 35.4887581, -1.84124947)
+		originalPos = (-0.0435031615, 35.4887581, -1.84125018)
 		originalRotation = (1.78503823E-10, 0, 0, 1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -9732,8 +9109,8 @@ PART
 {
 	part = TE2.19.F9.CGT_4286563928
 	partName = Part
-	persistentId = 3400565154
-	pos = -0.0435032807,35.4887581,0.657151043
+	persistentId = 2849339405
+	pos = -0.0435032807,35.4887581,0.657151759
 	attPos = 0,0,0
 	attPos0 = 1.2491926,-0.185558319,-1.1920929E-07
 	rot = 0,1.00000012,-1.78503823E-10,0
@@ -9957,7 +9334,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.0435032807, 35.4887581, 0.657150805)
+		originalPos = (-0.0435032807, 35.4887581, 0.65715152)
 		originalRotation = (0, 1.00000012, -1.78503823E-10, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -9971,5 +9348,677 @@ PART
 		UPGRADESAPPLIED
 		{
 		}
+	}
+}
+PART
+{
+	part = TE.Ghidorah.Erector_4290884096
+	partName = Part
+	persistentId = 86355561
+	pos = -0.0435032807,6.41040039,-0.592049301
+	attPos = 0,0,0
+	attPos0 = 0,-1.72891617,0
+	rot = 0,-0.707106829,0,0.707106829
+	attRot = 0,-0.707106769,0,0.707106769
+	attRot0 = 0,0,0,-1
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 4
+	resPri = 0
+	dstg = 2
+	sidx = 0
+	sqor = 4
+	sepI = 4
+	attm = 0
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	link = kOSMachineRad_4290391404
+	attN = rss,Null_0_16|0.699999988|1.60000002_0|-1|0_16|0.699999988|1.60000002_0|-1|0
+	attN = node_stack_top,TE.19.F9.S1.Engine_4292034162_0|0.448100001|0_0|1.00000012|-1.1920929E-07_0|0.448100001|0_0|1.00000012|-1.1920929E-07
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = True
+		animTime = 0
+		animSpeed = 1
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTundraDecoupler
+		isEnabled = True
+		deployState = RETRACTED
+		ejectionForcePercent = 100
+		isDecoupled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			DecoupleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = FairingSwitch
+		currentSubtype = On
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = topSwitch
+		currentSubtype = Ghidorah 9
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 30200
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAGX
+		isEnabled = True
+		placeHolder = Hello World
+		currentKeyset = 1
+		groupNames = 
+		groupVisibility = 1011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111
+		groupVisibilityNames = Group1‣Group2‣Group3‣Group4‣Group5
+		DirectActionState = 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+		hasData = true
+		focusFlightID = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = tjs_DecouplerLight
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = True
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartInfo
+		isEnabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (-0.0435032807, 6.41040039, -0.592049301)
+		originalRotation = (0, -0.707106829, 0, 0.707106829)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		originalAttachNodePos = (16.0, 0.7, 1.6)
+		originalAttachNodePos = (0.0, 0.4, 0.0)
+		originalAttachNodeSize = 4
+		originalAttachNodeSize = 3
+		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
+		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
+		originalAttachNodeOffset = (0.0, 0.0, 0.0)
+		originalAttachNodeOffset = (0.0, 0.0, 0.0)
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = kOSMachineRad_4290391404
+	partName = Part
+	persistentId = 2500487459
+	pos = -4.33863306,7.03718567,-0.556551158
+	attPos = 0,0,0
+	attPos0 = 0.035498444,0.626785278,4.29512262
+	rot = -0.50000006,0.50000006,-0.50000006,0.50000006
+	attRot = 0,0,0,1
+	attRot0 = -0.707106829,0.707106829,0,0
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 4
+	resPri = 0
+	dstg = 2
+	sidx = -1
+	sqor = -1
+	sepI = 4
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	srfN = srfAttach,TE.Ghidorah.Erector_4290884096,Colliders,0|0|0,1|0|0,0|0|0
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = kOSProcessor
+		isEnabled = True
+		bootFile = /boot/F9_Ground_Clamp.ks
+		diskSpace = 60000
+		baseDiskSpace = 60000
+		baseModuleMass = 0
+		additionalCost = 0
+		MaxPartId = 100
+		RequiredPower = 0.0399999991
+		stagingEnabled = True
+		activated = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			Activate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Deactivate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Toggle
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			TogglePower
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			StartSuppressAutopilot
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			StopSuppressAutopilot
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ToggleSuppressAutopilot
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KopernicusSolarPanel
+		isEnabled = True
+		trackingBodyName = 
+		_manualTracking = False
+		efficiencyMult = 1
+		launchUT = -1
+		currentRotation = (0, 0, 0, 1)
+		storedAnimationTime = 0
+		storedAnimationSpeed = 0
+		deployState = EXTENDED
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ExtendPanelsAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ExtendAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			RetractAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2200
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAGX
+		isEnabled = True
+		placeHolder = Hello World
+		currentKeyset = 1
+		groupNames = 
+		groupVisibility = 1011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111011111
+		groupVisibilityNames = Group1‣Group2‣Group3‣Group4‣Group5
+		DirectActionState = 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+		hasData = true
+		focusFlightID = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = True
+		nameTag = GROUNDCPU
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleCargoPart
+		isEnabled = True
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (-4.33863211, 7.03718567, -0.556551158)
+		originalRotation = (-0.50000006, 0.50000006, -0.50000006, 0.50000006)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModulekOSVoidAction
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			kOSVoidAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = ElectricCharge
+		amount = 10
+		maxAmount = 10
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
 	}
 }
