@@ -1,6 +1,4 @@
 # Falcon 9 Software
-
-Welcome to the Falcon 9 software repo!
 ### Created in KRSS 2.5x 
 
 ## Current Version
