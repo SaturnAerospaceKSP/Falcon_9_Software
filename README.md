@@ -24,6 +24,10 @@ Welcome to the Falcon 9 software repo!
 
 [Droneship](https://spacedock.info/mod/3133/SpaceX%20Barge%20Lander%202)
 
+[Hyperedit](https://www.kerbaltek.com/hyperedit)
+
+[VesselMover](https://spacedock.info/mod/860/VesselMover)
+
 [Realistic Towers (Optional)](https://spacedock.info/mod/626/SpaceX%20Launch%20Towers)
 
 ## INSTALLATION & USE
