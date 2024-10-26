@@ -196,17 +196,20 @@ GLOBAL FUNCTION _BOOSTER_ATMOSPHERIC_GUIDANCE
     _LANDING_BURN_VARIABLES().
 
     // ENTRY BURN
-        UNTIL SHIP:ALTITUDE < 32500 {WAIT 0.}
-        LOCK STEERING TO SRFRETROGRADE.
-        SET STEERINGMANAGER:MAXSTOPPINGTIME TO 10.
-        _BOOSTER_ENGINE_CONTROL("ONE ENGINE").
-        IF _SOOT_TOGGLE {_BOOSTER_TANK[0]:getmodule("ModuleTundraSoot"):doaction("Toggle Soot", true). _BOOSTER_INTERSTAGE[0]:getmodule("ModuleTundraSoot"):doaction("Toggle Soot", true).}
-        LOCK THROTTLE TO 1.
-        WAIT 0.75.
-        _BOOSTER_ENGINE_CONTROL("THREE ENGINES").
-        UNTIL SHIP:VERTICALSPEED > -300 {WAIT 0.}
-        LOCK THROTTLE TO 0.
-        LOCK STEERING TO _LANDING_ZONE_GUIDANCE().
+        IF _RECOVERY_ENTRY_BURN 
+        {    
+            UNTIL SHIP:ALTITUDE < 32500 {WAIT 0.}
+            LOCK STEERING TO SRFRETROGRADE.
+            SET STEERINGMANAGER:MAXSTOPPINGTIME TO 10.
+            _BOOSTER_ENGINE_CONTROL("ONE ENGINE").
+            IF _SOOT_TOGGLE {_BOOSTER_TANK[0]:getmodule("ModuleTundraSoot"):doaction("Toggle Soot", true). _BOOSTER_INTERSTAGE[0]:getmodule("ModuleTundraSoot"):doaction("Toggle Soot", true).}
+            LOCK THROTTLE TO 1.
+            WAIT 0.75.
+            _BOOSTER_ENGINE_CONTROL("THREE ENGINES").
+            UNTIL SHIP:VERTICALSPEED > -300 {WAIT 0.}
+            LOCK THROTTLE TO 0.
+            LOCK STEERING TO _LANDING_ZONE_GUIDANCE().
+        }
 
         IF _RECOVERY_LANDING_ENGINES = 1 {_BOOSTER_ENGINE_CONTROL("ONE ENGINE").}
 
