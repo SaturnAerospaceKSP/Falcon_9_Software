@@ -136,5 +136,28 @@ GLOBAL FUNCTION _LAUNCH_CLAMP_ACTIONS
                 _LAUNCH_CLAMP[0]:GETMODULE("ModuleTundraDecoupler"):DOEVENT("Decouple").
             }
         }
+    } ELSE IF _CLAMP = "39TU"
+    {
+        IF _ACTION = "RETRACT STRONGBACK" 
+        {
+            IF _LAUNCH_CLAMP[0]:GETMODULE("ModuleAnimateGeneric"):HASEVENT("Open Erector")
+            {
+                _LAUNCH_CLAMP[0]:GETMODULE("ModuleAnimateGeneric"):DOEVENT("Open Erector").
+            }
+        }
+        ELSE IF _ACTION = "REVERT STRONGBACK" 
+        {
+            IF _LAUNCH_CLAMP[0]:GETMODULE("ModuleAnimateGeneric"):HASEVENT("Close Erector")
+            {
+                _LAUNCH_CLAMP[0]:GETMODULE("ModuleAnimateGeneric"):DOEVENT("Close Erector").
+            }
+        }
+        ELSE IF _ACTION = "RELEASE" 
+        {
+            IF _LAUNCH_CLAMP[0]:GETMODULE("ModuleTundraDecoupler"):HASACTION("Decouple")
+            {
+                _LAUNCH_CLAMP[0]:GETMODULE("ModuleTundraDecoupler"):DOACTION("Decouple", true).
+            }
+        }
     }
 }

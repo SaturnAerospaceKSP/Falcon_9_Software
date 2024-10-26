@@ -36,9 +36,9 @@ GLOBAL _FALCON_9_SETTINGS IS LEXICON(
     "MISSION", "LAUNCH", // "LAUNCH" / "STATIC FIRE"
 
     "LAUNCH_TARGETS", LEXICON(
-        "APOAPSIS",         240,   // Highest point of orbit (Km)
+        "APOAPSIS",         245,   // Highest point of orbit (Km)
         "PERIAPSIS",        105,   // Lowest point (Km)
-        "INCLINATION",      35,     // Inclination from Equator (Deg)
+        "INCLINATION",      -40,     // Inclination from Equator (Deg)
         "LONG_ASCEND_NODE", FALSE, // Longitude of Ascending Node target
         "TARGET_DOCKING",   FALSE, // FALSE OR vessel("ShipName")
         "TARGET_PLANET",    FALSE, // FALSE OR name of planet
@@ -51,13 +51,14 @@ GLOBAL _FALCON_9_SETTINGS IS LEXICON(
     ),
 
     "RECOVERY_SETTINGS", LEXICON(
-        "TYPE",             "RTLS", // "ASDS" / "RTLS" / "EXPD"
-        "ENTRY_BURN",       TRUE,   // TRUE / FALSE - Arguably, no burn needed unless RSS 
-        "LANDING_BURN_ENG", 3,      // 1 / 3 - How many engines for landing burn?
-        "TOGGLE_SOOT",      TRUE,   // TRUE / FALSE
+        "TYPE",             "ASDS",  // "ASDS" / "RTLS" / "EXPD"
+        "ENTRY_BURN",       TRUE,    // TRUE / FALSE - Arguably, no burn needed unless RSS 
+        "LANDING_BURN_ENG", 3,       // 1 / 3 - How many engines for landing burn?
+        "TOGGLE_SOOT",      TRUE,    // TRUE / FALSE
+        "LANDING_ZONE",     "KSC 1", // "KSC 1" / "KSC 2" / "KSC 3" / "CUSTOM 1" / "CUSTOM 2" - ONLY REQUIRED RTLS (ASDS IS AUTOMATIC)
         "FUEL_MARGINS", LEXICON(
-            "RTLS", 25.5, // % Of LiquidFuel on MECO
-            "ASDS", 22    // ^^  
+            "RTLS", 25.0,   // % Of LiquidFuel on MECO
+            "ASDS", 22.0    // ^^  
         )
     ),
 

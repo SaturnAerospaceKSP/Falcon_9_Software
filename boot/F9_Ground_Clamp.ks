@@ -35,4 +35,4 @@
 
 UNTIL AG6 {WAIT 0.}
 
-IF SHIP:STATUS = "PRELAUNCH" {RUNONCEPATH("0:/Falcon_9_Software/A_GROUND/main.ks").} // Run the main script for the launch pad
+RUNONCEPATH("0:/Falcon_9_Software/A_GROUND/main.ks"). // Run the main script for the launch pad
