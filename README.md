@@ -10,6 +10,7 @@ Welcome to the Falcon 9 software repo!
 - [X] Tundra Pad 40 & 39 Clamp Support
 
 ## In Development 
+- [ ] Static Fires
 - [ ] Dragon Operations
 - [ ] Interplanetary Launches
 - [ ] Specific LAN Targeting
