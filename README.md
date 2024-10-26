@@ -32,7 +32,7 @@ Welcome to the Falcon 9 software repo!
 [Realistic Towers (Optional)](https://spacedock.info/mod/626/SpaceX%20Launch%20Towers)
 
 ## INSTALLATION & USE
-BEFORE ANY ASDS Landings you MUST ensure that the droneship you want to place is placed somewhere in the world (if it's a vessel). Otherwise the code wont work. You can delete it using hyperedit once you place the real droneship!
+***BEFORE ANY ASDS Landings you MUST ensure that the droneship you want to place is placed somewhere in the world (if it's a vessel). Otherwise the code wont work. You can delete it using hyperedit once you place the real droneship!***
 
 Ensure you have installed the software from here, then you must place it in this folder: 
 [Install Location](https://lh3.googleusercontent.com/xGoidraLFlPYJURH5FbmFJYoXSEe2wbdf6UTdZ0SUE1UEoh3LnTnO3P6lzuYygtz86o4kGbp_Pmogsj4Qmb6fAL4H5IxgQwjMXYhB1evQhrFKqCmRzBWKyOuZHd85A9Fnw=w1280)
