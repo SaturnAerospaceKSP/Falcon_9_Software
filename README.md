@@ -42,6 +42,8 @@ Feel free to configure the settings to your hearts desire, as long as they make 
 When you have configured the settings, you can now setup the craft. It is highly advised that you use the provided craft and have it as a template, as otherwise you will require a bit of kOS knowledge in order to understand part tags & where to put things.
 When you open the craft you can add a payload, change the booster style and even change the strongback (the vehicle detects this automatically and will work with the Science818 towers)
 
+Make sure that if you aren't using the provided craft, you use the Tundra F9, aswell as setting the CPU on the ground to have the tag GROUNDCPU, Booster CPU to have BOOSTERCPU and S2 CPU to have UPPERCPU
+
 ### You can refer to[ this tutorial video](https://youtu.be/OuLgopvZ4Xs) for droneship placement on ASDS recoveries. 
 If your droneship / barge has a different name in KSP then you can change it in *Falcon_9_Software > Initialization > Booster_Init.ks* on [this line ](https://lh4.googleusercontent.com/t959KoIUq39LPHs0FRumXB6_xKeZ6KxMvBEPxOqyTsw_LICfUL6AibIJEQiQobDUy56myJCTJsszW_0RVB7O2cZoxR9YYJIysZryWsieQnOF7cadpJeaiz91sh3cOoQtHw=w1280)
 
