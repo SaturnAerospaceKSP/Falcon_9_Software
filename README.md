@@ -8,6 +8,7 @@
 - [X] Tundra Pad 40 & 39 Clamp Support
 
 ## In Development 
+- [ ] Working Telemetry CPU
 - [ ] Static Fires
 - [ ] Dragon Operations
 - [ ] Interplanetary Launches
