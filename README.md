@@ -4,7 +4,8 @@ Welcome to the Falcon 9 software repo!
 ### Created in KRSS 2.5x 
 
 ## Current Version
-- [x] Launch & Landing (RTLS & ASDS)
+- [x] Launch To Orbit
+- [x] Booster Landing (RTLS & ASDS)
 - [x] Recovery Accuracy = ~4m
 - [X] Tundra Pad 40 & 39 Clamp Support
 
